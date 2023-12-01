@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main {
+    border: 5px dashed white;
+    border-radius: 100px;
+    font-size: 30px;
+    width: 45%;
+    margin: auto;
+    margin-bottom: 2%;
+    padding-bottom: 2.5%;
+}
+.main > .dish {
+    border-radius: 10px;
+    border: 9px double #6495ED;
+}
+.dish:hover {
+    opacity: 75%;
+    transition: 0.85s;
+}
+.block {
+    background-color: black;
+    width: 70%;
+    padding: 1% 2%;
+    margin: auto;
+    margin-top: 2%;
+    border: 4px dashed #6495ED;
+    border-radius: 15px;
+    color: white;
+    text-align: left;
+}
+.block:hover {
+    background-color: #4C4E52;
+    transition: 0.75s;
+}
+.heading {
+    text-align: center;
+    color: skyblue;
+    border-radius: 8px;
+    border-bottom: 2px dashed #708090;
+}
+a {
+    color: aliceblue;
+}
+a:hover {
+    color: skyblue;
+}
+
+
