@@ -1,0 +1,27 @@
+.heading {
+    text-align: center;
+    font-family: monospace;
+    font-size: 25px;
+    border-bottom: 2px solid black;
+    width: 70%;
+    margin: auto;
+    border-radius: 20px;
+}
+
+.heading img {
+    width: 45%;
+    border-radius: 20px;
+}
+
+.recipe {
+    font-family: cursive;
+    font-size: 20px;
+    margin: auto;
+    width: 60%;
+}
+
+.recipe h2, .recipe h3{
+    text-decoration: underline;
+    font-family: monospace;
+    font-size: 22px;
+}

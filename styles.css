@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: monospace;
+}
+
+.mainpage h1 {
+    font-size: 80px;
+}
+
+.mainpage {
+    margin: auto;
+    width: 60%;
+}
+
+.mainpage ol {
+    font-size: 20px;
+    list-style-type: upper-roman;
+    width: 30%;
+    margin: auto;
+    text-align: justify;
+}
+
+.mainpage ol li a {
+    text-decoration: none;
+    color: black;    
+}
+
+.mainpage ol li:hover {
+    text-decoration: bold;
+    font-weight: bold;
+}
+
